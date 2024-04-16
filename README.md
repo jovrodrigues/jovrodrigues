@@ -18,7 +18,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src=""/>
+<img loading="lazy" height="180em" src="https://github.com/jovrodrigues/jovrodrigues"/>
 <img loading="lazy" height="180em" src=""/>
 </div>
 
