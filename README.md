@@ -6,6 +6,7 @@
 
 - :mortar_board: I’m happy studying Science Computition on FURB (2/6);
 - :triangular_flag_on_post: In a first moment, I've chosen learning JS, HTML and CSS alone (but I take risks on JAVA too);
+- :hospital: I'm R&D intern at Philips.
 
 ## Contacts:
 
