@@ -4,7 +4,7 @@
   I'm actually on career transition. Initially I started on ADM sector, 
   but as I always liked of technologies, that was not completing me :eyes:
 
-- :mortar_board: I’m happy studying Science Computition on FURB (2/9);
+- :mortar_board: I’m happy studying Science Computition on FURB (3/9);
 - :triangular_flag_on_post: In a first moment, I've chosen learning JS, HTML and CSS alone (but I take risks on JAVA too);
 - :hospital: I'm R&D intern at Philips.
 
